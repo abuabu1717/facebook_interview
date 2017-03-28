@@ -31,3 +31,9 @@ for all in product(*(x for x in strings)): #makes all possible combinations of w
         result.append(possible)
 
 print result
+
+'''
+Enter a number:
+228
+['abu', 'act', 'bat', 'cat']
+'''
